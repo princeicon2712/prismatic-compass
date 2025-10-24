@@ -16,7 +16,7 @@ AB= Erro distance [ answer]
 
 3.918513*135/1103= 0.47960041251 [ latitude carection of ans]
 
-
+0.546839*135/1103= Depacher ans.
 
 <!--[profile](./br.jpg)-->
 <img src="br.jpg" width="600"/>
