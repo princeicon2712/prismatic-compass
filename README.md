@@ -20,3 +20,9 @@ AB= Erro distance [ answer]
 
 <!--[profile](./br.jpg)-->
 <img src="br.jpg" width="600"/>
+
+
+## প্রিসমেটিক কম্পাসে 
+ডান দিকে তাকালে bearing কমে
+
+বাম দিকে তাকালে bearing বাড়ে
